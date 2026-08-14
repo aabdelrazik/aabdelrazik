@@ -14,5 +14,5 @@ developing a framework for hierarchical decision-making and meta-control.
 
 - 🌐 Website: [AhmedHamdy-e21.github.io](https://yourusername.github.io)
 - 📄 [CV](https://AhmedHamdy-e21.github.io/cv.pdf)
-- 📫 ahamdy.e21@gmail.com
+- 📫 ahmed.abdelrazik@tuebingen.mpg.de
 - 🏛️ [MPI Tübingen profile](https://www.kyb.tuebingen.mpg.de/person/138654)
