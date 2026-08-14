@@ -12,7 +12,7 @@ understanding brains and designing intelligent algorithms for machines.
 **Currently:** modeling sequential decision-making in OCD as a POMDP, and
 developing a framework for hierarchical decision-making and meta-control.
 
-- 🌐 Website: [aabdelrazik.github.io](https://yourusername.github.io)
+- 🌐 Website: [aabdelrazik.github.io](https://aabdelrazik.github.io)
 - 📄 [CV](https://AhmedHamdy-e21.github.io/cv.pdf)
 - 📫 ahmed.abdelrazik@tuebingen.mpg.de
 - 🏛️ [MPI Tübingen profile](https://www.kyb.tuebingen.mpg.de/person/138654)
